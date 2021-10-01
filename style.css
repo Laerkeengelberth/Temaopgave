@@ -18,3 +18,40 @@
 .navbar-light .navbar-nav .show > .nav-link {
   font-family: "quiet sans", serif;
 }
+
+.form-control {
+  border-radius: 0px;
+  color: black;
+  border-color: black;
+}
+
+.btn-outline-success {
+  color: white;
+  border-color: white;
+  background-color: #0f3921;
+}
+
+.btn:hover {
+  color: black;
+  border-color: white;
+  background-color: #d48e75;
+}
+
+.btn {
+  border-radius: 0px;
+}
+
+.d-flex {
+  font-family: "quiet sans", serif;
+}
+
+.form-control:focus {
+  border-color: black;
+  box-shadow: 0px 0px black;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 3rem;
+  padding: 5vw;
+}
