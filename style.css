@@ -2,6 +2,19 @@
   --bs-light-rgb: none;
 }
 
+.row {
+  margin-right: 0;
+}
+
+.row > * {
+  padding-right: 0;
+}
+
+.navbar {
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
 .navbar-light .navbar-toggler {
   border-color: white;
   color: white !important;
@@ -52,6 +65,23 @@
 
 h1 {
   font-family: "Playfair Display", serif;
-  font-size: 3rem;
-  padding: 5vw;
+  /* font-size: 3.5rem; */
+  font-size: calc(1.825rem + 3.5vw);
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+  padding-left: 5vw;
+  color: #3b1e11;
+}
+
+.navbar-nav {
+  align-items: right;
+}
+
+.navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 1.5rem;
+  padding-left: 2.5rem;
 }
