@@ -69,7 +69,6 @@ h1 {
   font-size: calc(1.825rem + 3.5vw);
   padding-top: 2vw;
   padding-bottom: 2vw;
-  padding-left: 5vw;
   color: black;
 }
 
@@ -88,22 +87,23 @@ h1 {
 
 :root h2 {
   color: black;
-  padding: 1rem;
-  font-family: "quiet sans", serif;
+  font-family: "Playfair Display", serif;
 }
 
 :root h3 {
   color: black;
-  font-family: "quiet sans", serif;
-  padding: 1rem;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 1.2rem;
 }
 
 p {
   color: black;
   font-family: "quiet sans", serif;
-  padding: 4rem;
   line-height: 2rem;
   text-align: left;
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-right: 60px;
+}
+
+#section_2 {
+  background-color: #e09276;
 }
