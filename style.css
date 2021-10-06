@@ -84,12 +84,13 @@ h1 {
 .navbar-expand-lg .navbar-nav .nav-link {
   padding-right: 1.5rem;
   padding-left: 2.5rem;
+/* 
 body {
   background-color: #124527;
-}
+} */
+
 :root h2 {
   color: white;
-
   padding: 1rem;
   font-family: quit sand;
 }
