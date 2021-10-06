@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
   --bs-light-rgb: none;
 }
@@ -84,4 +85,43 @@ h1 {
 .navbar-expand-lg .navbar-nav .nav-link {
   padding-right: 1.5rem;
   padding-left: 2.5rem;
+=======
+body {
+  background-color: #124527;
+}
+:root h2 {
+  color: white;
+
+  padding: 1rem;
+  font-family: quit sand;
+}
+
+:root h3 {
+  color: white;
+  font-family: quit sand;
+  padding: 1rem;
+}
+
+.blomst {
+  width: 15vh;
+  right: 25vh;
+}
+
+p {
+  color: white;
+  font-family: quit sand;
+  padding: 4rem;
+  line-height: 2rem;
+
+  text-align: left;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.pige {
+  width: 100%;
+}
+#sektion_2 {
+  background: white;
+>>>>>>> 72315744b7bb6c5c3ac7dba6a0b5d061139808ef
 }
