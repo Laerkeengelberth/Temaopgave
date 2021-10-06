@@ -1,0 +1,87 @@
+:root {
+  --bs-light-rgb: none;
+}
+
+.row {
+  margin-right: 0;
+}
+
+.row > * {
+  padding-right: 0;
+}
+
+.navbar {
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: white;
+  color: white !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #0f3921;
+}
+.navbar-light .navbar-toggler-icon {
+  background-image: url(images/menu.svg) !important;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show > .nav-link {
+  font-family: "quiet sans", serif;
+}
+
+.form-control {
+  border-radius: 0px;
+  color: black;
+  border-color: black;
+}
+
+.btn-outline-success {
+  color: white;
+  border-color: white;
+  background-color: #0f3921;
+}
+
+.btn:hover {
+  color: black;
+  border-color: white;
+  background-color: #d48e75;
+}
+
+.btn {
+  border-radius: 0px;
+}
+
+.d-flex {
+  font-family: "quiet sans", serif;
+}
+
+.form-control:focus {
+  border-color: black;
+  box-shadow: 0px 0px black;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  /* font-size: 3.5rem; */
+  font-size: calc(1.825rem + 3.5vw);
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+  padding-left: 5vw;
+  color: black;
+}
+
+.navbar-nav {
+  align-items: right;
+}
+
+.navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 1.5rem;
+  padding-left: 2.5rem;
+}
