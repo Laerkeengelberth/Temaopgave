@@ -87,36 +87,23 @@ h1 {
 }
 
 :root h2 {
-  color: white;
+  color: black;
   padding: 1rem;
-  font-family: quit sand;
+  font-family: "quiet sans", serif;
 }
 
 :root h3 {
-  color: white;
-  font-family: quit sand;
+  color: black;
+  font-family: "quiet sans", serif;
   padding: 1rem;
 }
 
-.blomst {
-  width: 15vh;
-  right: 25vh;
-}
-
 p {
-  color: white;
-  font-family: quit sand;
+  color: black;
+  font-family: "quiet sans", serif;
   padding: 4rem;
   line-height: 2rem;
-
   text-align: left;
   padding-left: 5%;
   padding-right: 5%;
-}
-
-.pige {
-  width: 100%;
-}
-#sektion_2 {
-  background: white;
 }
