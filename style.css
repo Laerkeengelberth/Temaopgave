@@ -114,3 +114,10 @@ p {
   border: none;
   font-family: "quiet sans", serif;
 }
+
+.knap {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  padding-right: 70px;
+}
