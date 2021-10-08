@@ -1,14 +1,13 @@
-<<<<<<< HEAD
 :root {
   --bs-light-rgb: none;
 }
 
-.row {
-  margin-right: 0;
-}
-
 .row > * {
   padding-right: 0;
+}
+
+.row {
+  margin-right: 0;
 }
 
 .navbar {
@@ -70,7 +69,6 @@ h1 {
   font-size: calc(1.825rem + 3.5vw);
   padding-top: 2vw;
   padding-bottom: 2vw;
-  padding-left: 5vw;
   color: black;
 }
 
@@ -84,44 +82,42 @@ h1 {
 
 .navbar-expand-lg .navbar-nav .nav-link {
   padding-right: 1.5rem;
-  padding-left: 2.5rem;}
-=======
-#section {
-  background-color: #124527;
+  padding-left: 2.5rem;
 }
-:root h2 {
-  color: white;
 
-  padding: 1rem;
-  font-family: quit sand;
+:root h2 {
+  color: black;
+  font-family: "Playfair Display", serif;
 }
 
 :root h3 {
-  color: white;
-  font-family: quit sand;
-  padding: 1rem;
-}
-
-.blomst {
-  width: 15vh;
-  right: 25vh;
+  color: black;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 1.2rem;
 }
 
 p {
-  color: white;
-  font-family: quit sand;
-  padding: 4rem;
+  color: black;
+  font-family: "quiet sans", serif;
   line-height: 2rem;
-
   text-align: left;
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-right: 60px;
 }
 
-.pige {
-  width: 100%;
+#section_2 {
+  background-color: #e0a48e;
 }
-#sektion_2 {
-  background: white;
->>>>>>> 72315744b7bb6c5c3ac7dba6a0b5d061139808ef
+
+.btn-primary {
+  background-color: #0f3921;
+  color: white;
+  border: none;
+  font-family: "quiet sans", serif;
+}
+
+.knap {
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  padding-right: 70px;
 }
