@@ -121,3 +121,7 @@ p {
   align-content: center;
   padding-right: 70px;
 }
+
+.blad {
+  float: right;
+}
