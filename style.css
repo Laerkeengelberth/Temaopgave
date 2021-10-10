@@ -136,3 +136,31 @@ p {
 .baer {
   text-align: center;
 }
+
+#section_6 {
+  background-color: #0f3921;
+}
+
+h5 {
+  color: black;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 1.2rem;
+}
+
+.carousel-caption {
+  bottom: -2.5rem;
+}
+
+.carousel-inner {
+  position: relative;
+  width: 56%;
+  overflow: hidden;
+}
+
+.carousel {
+  left: 10%;
+}
+
+.carousel-control-next {
+  right: 100px;
+}
