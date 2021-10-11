@@ -158,9 +158,13 @@ h5 {
 }
 
 .carousel {
-  left: 10%;
+  left: 0;
 }
 
 .carousel-control-next {
   right: 100px;
+}
+
+#section_info {
+  background-color: #3b1e11;
 }
