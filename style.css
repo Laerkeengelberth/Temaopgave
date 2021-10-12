@@ -169,5 +169,14 @@ h5 {
   right: 200px;
 }
 #section_info {
-  background-color: #3b1e11;
+  background-color: #d48e75;
+  padding: 3%;
+  padding-left: 10%;
+}
+footer {
+  display: block;
+}
+footer .row {
+  padding-top: 3%;
+  padding-left: 10%;
 }
