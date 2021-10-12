@@ -14,7 +14,6 @@ gsap
       start: "20% 80%",
       end: "+=300",
       scrub: true,
-      markers: true,
     },
   })
 
