@@ -179,3 +179,7 @@ footer .row {
   padding-top: 3%;
   padding-left: 10%;
 }
+a {
+  color: black;
+  font-family: "quiet sans", serif;
+}
